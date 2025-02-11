@@ -26,7 +26,7 @@ This project implements a real-time text recognition system using a Raspberry Pi
 1. Connect your Raspberry Pi camera and ensure it is functioning correctly.
 2. Run the script:
    ```bash
-   python text_recognition.py
+   python text_to_speech.py
    ```
 
 ## Usage
